@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akikobot
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @akikoiko
+- 👀 I’m student
+- 🌱 I’m currently learning phyton
+- 📫 How to reach me master
 
 <!---
 akikobot/akikobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
